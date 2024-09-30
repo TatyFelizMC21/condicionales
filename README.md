@@ -1,4 +1,4 @@
-# condicionales
+# Condicionales
 
 Este es un proyecto para aprender a usar condicionales.
 
